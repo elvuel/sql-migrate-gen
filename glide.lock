@@ -1,0 +1,9 @@
+hash: fedee364b56c922441992c1c1e95569c697361c853db0a822ebb40dbb866c129
+updated: 2016-07-19T15:51:55.02038388+08:00
+imports:
+- name: github.com/chuckpreslar/inflect
+  version: 423e3ac59c611e2d549527ab8c15fb99335d30ba
+  subpackages:
+  - languages
+  - types
+testImports: []

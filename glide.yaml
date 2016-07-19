@@ -1,0 +1,3 @@
+package: github.com/elvuel/sql-migrate-gen
+import:
+- package: github.com/chuckpreslar/inflect
